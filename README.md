@@ -30,6 +30,11 @@ Les données à traiter sont constituées de:
 | `README.md`        | Ce fichier de présentation                                              |
 | `requirements.txt` | Dépendances Python nécessaires                                          |
 
+## Données
+
+Le fichier de données (.zip) est disponible ici :
+[Télécharger depuis Google Drive](https://drive.google.com/file/d/1gvbCRwT2MGlyFR_QbUdLGs4HdliksDdh/view?usp=drive_link)  et insérer le fichier zip dans le dossier [`data/`](data)
+
 ## Étapes du projet
 
 1. Préparation des données dans le fichier [`features_extraction.ipynb`](notebooks/features_extraction.ipynb)
