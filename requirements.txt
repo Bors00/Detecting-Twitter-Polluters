@@ -1,5 +1,3 @@
-pandas
-numpy
-matplotlib
-scipy
-scikit-learn
+version https://git-lfs.github.com/spec/v1
+oid sha256:804a16a125b37c36b020c61775317717a2857a77bdd179c970c5ca417901379e
+size 42
