@@ -25,7 +25,7 @@ Les données à traiter sont constituées de:
 
 | Dossier/Fichier    | Description                                                             |
 | ------------------ | ----------------------------------------------------------------------- |
-| `Datasets/`            | Contient les jeux de données             |
+| `data/`            | Contient les jeux de données             |
 | `notebooks/`       | Notebooks Jupyter pour la préparation des données l'entraînement et l'évaluation des modèles |
 | `README.md`        | Ce fichier de présentation                                              |
 | `requirements.txt` | Dépendances Python nécessaires                                          |
